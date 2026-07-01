@@ -84,4 +84,4 @@ Power BI — multi-page report with button navigation, drill-through, what-if pa
 
 ✅ Conclusion
 
-A full hospital-in-a-report build that demonstrates data modeling, drill-through, and what-if interactivity — a st
+A full hospital-in-a-report build that demonstrates data modeling, drill-through, and what-if interactivity — a strong example of operational analytics delivered as a single, navigable application.
